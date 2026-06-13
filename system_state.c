@@ -14,4 +14,4 @@ void system_state_init(void)
     g_system.mode = SYSTEM_PAUSED;
 
     g_system.pending_event = MANAGER_EVENT_NONE;
-}
+} 
