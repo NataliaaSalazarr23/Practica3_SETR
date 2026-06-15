@@ -1,7 +1,8 @@
 # Practica 3 
 
-Emilio Hernández Santana 10095
-Natalia Marian Salazar Dompinguez 10073
+Emilio Hernández Santana 10095  
+
+Natalia Marian Salazar Domínguez 10073
 
 ## Preguntas  
 
